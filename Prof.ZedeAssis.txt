@@ -1,0 +1,24 @@
+-Criar o repositorio (Github)
+-Criar o selo no Shield.io https://shields.io/badges/git-hub-license
+
+Copia o code da raiz do ropositorio: https://github.com/somadekadane/appflex.git
+No Bash: 
+Digite: git clone e cola o LINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basta pressionar simultaneamente as teclas “Windows” + “Shift” + “S”
